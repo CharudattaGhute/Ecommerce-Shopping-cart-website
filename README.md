@@ -22,6 +22,12 @@ CSS
 JavaScript
 Bootstrap
 
+## Login page 
+
+<img width="1418" alt="Screenshot 2024-04-20 at 9 42 45 PM" src="https://github.com/CharudattaGhute/ecommerce-website/assets/122104600/9047eb8e-d211-46d6-801c-24b7a03ef207">
+
+## project page
+
 ## How to Run the Application
 - To run the application, simply open the index.html file in a web browser.
 
