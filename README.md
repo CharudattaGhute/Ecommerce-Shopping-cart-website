@@ -49,7 +49,12 @@ Install the necessary dependencies by running:
 npm install express
 ```
 4. Start the Server
-Start the server by ru
+Start the server by running:
+
+``` bash
+npm start
+```
+- By default, the server will run on port 5001. You can access the application by visiting http://localhost:5001 in your web browser.
 
 
 ## Login page 
