@@ -17,10 +17,12 @@ The project consists of the following files:
 - Allows users to close the cart by clicking the "Close" button.
 - 
 ## Technologies Used
-HTML
-CSS
-JavaScript
-Bootstrap
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Node.js
+- Express.js
 
 ## Login page 
 
