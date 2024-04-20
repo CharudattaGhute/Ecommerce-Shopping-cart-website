@@ -33,7 +33,7 @@ Clone this repository to your local machine using the following command:
 
 ``` bash
 
-git clone https://github.com/your-username/chat-application.git
+git clone https://github.com/CharudattaGhute/Ecommerce-Shopping-cart-website.git
 ```
 2. Navigate to the Project Directory
 Navigate into the project directory:
