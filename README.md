@@ -23,6 +23,34 @@ The project consists of the following files:
 - Bootstrap
 - Node.js
 - Express.js
+- 
+## Installation
+
+- To run this application locally, you'll need to have Node.js and npm (Node Package Manager) installed on your machine. Follow these steps to get started
+
+1. Clone the Repository
+Clone this repository to your local machine using the following command:
+
+``` bash
+
+git clone https://github.com/your-username/chat-application.git
+```
+2. Navigate to the Project Directory
+Navigate into the project directory:
+
+``` bash
+cd projectone
+```
+3. Install Dependencies
+Install the necessary dependencies by running:
+
+``` bash
+
+npm install express
+```
+4. Start the Server
+Start the server by ru
+
 
 ## Login page 
 
