@@ -1,4 +1,3 @@
-# Ecommerce-website
 # Shopping Cart Project
 This project is a simple shopping cart application built using HTML, CSS, and JavaScript. It allows users to browse through a selection of iPhones, add them to their cart, and view the total price of their selected items.
 
